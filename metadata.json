@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Meeting Memo Pro",
+  "description": "A minimal, powerful smart office tool that transforms meeting audio into actionable summaries, key points, and task lists using Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
